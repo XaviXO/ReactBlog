@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/http//:XaviXO.github.io/ReactBlog/static/css/main.dc4f4ae2.chunk.css",
+    "main.js": "/http//:XaviXO.github.io/ReactBlog/static/js/main.7e9b60eb.chunk.js",
+    "main.js.map": "/http//:XaviXO.github.io/ReactBlog/static/js/main.7e9b60eb.chunk.js.map",
+    "runtime-main.js": "/http//:XaviXO.github.io/ReactBlog/static/js/runtime-main.b41441dd.js",
+    "runtime-main.js.map": "/http//:XaviXO.github.io/ReactBlog/static/js/runtime-main.b41441dd.js.map",
+    "static/js/2.a56e0cec.chunk.js": "/http//:XaviXO.github.io/ReactBlog/static/js/2.a56e0cec.chunk.js",
+    "static/js/2.a56e0cec.chunk.js.map": "/http//:XaviXO.github.io/ReactBlog/static/js/2.a56e0cec.chunk.js.map",
+    "index.html": "/http//:XaviXO.github.io/ReactBlog/index.html",
+    "precache-manifest.75698aeb714b96b703d7497a0d1f7e64.js": "/http//:XaviXO.github.io/ReactBlog/precache-manifest.75698aeb714b96b703d7497a0d1f7e64.js",
+    "service-worker.js": "/http//:XaviXO.github.io/ReactBlog/service-worker.js",
+    "static/css/main.dc4f4ae2.chunk.css.map": "/http//:XaviXO.github.io/ReactBlog/static/css/main.dc4f4ae2.chunk.css.map",
+    "static/js/2.a56e0cec.chunk.js.LICENSE.txt": "/http//:XaviXO.github.io/ReactBlog/static/js/2.a56e0cec.chunk.js.LICENSE.txt",
+    "static/media/cap1.jpg": "/http//:XaviXO.github.io/ReactBlog/static/media/cap1.31daccb5.jpg",
+    "static/media/fit1.jpg": "/http//:XaviXO.github.io/ReactBlog/static/media/fit1.548fc6b3.jpg",
+    "static/media/lav1.jpg": "/http//:XaviXO.github.io/ReactBlog/static/media/lav1.f37c6ce7.jpg",
+    "static/media/mar1.jpg": "/http//:XaviXO.github.io/ReactBlog/static/media/mar1.b51b7360.jpg",
+    "static/media/mitbus.jpg": "/http//:XaviXO.github.io/ReactBlog/static/media/mitbus.4cb8c166.jpg",
+    "static/media/prg1.jpg": "/http//:XaviXO.github.io/ReactBlog/static/media/prg1.fb2dc1ed.jpg",
+    "static/media/profile.jpg": "/http//:XaviXO.github.io/ReactBlog/static/media/profile.ced44875.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b41441dd.js",
+    "static/js/2.a56e0cec.chunk.js",
+    "static/css/main.dc4f4ae2.chunk.css",
+    "static/js/main.7e9b60eb.chunk.js"
+  ]
+}
