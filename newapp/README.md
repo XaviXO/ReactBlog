@@ -1,3 +1,5 @@
+This is an blog website created in React works great 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
